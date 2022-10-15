@@ -1,1 +1,1 @@
-print('Mididuddi Naresh and Son name is Sai')
+print('Mididuddi Naresh')
